@@ -5,7 +5,6 @@ Bibtex: Pulkit Kathuria, Atsuo Yoshitaka. Hand Gesture Recognition by using Logi
 
 Full Paper: http://ci.nii.ac.jp/naid/110008802709/
 
-Presentation: http://www.jaist.ac.jp/~s1010205/resources/Computer-Vision/report.pdf
+Presentation: https://speakerdeck.com/kevincobain2000/hand-gesture-recognition
 
-Images
-------
+
